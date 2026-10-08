@@ -5,3 +5,4 @@ fp-info-cache
 *.bak
 .history/
 *.lck
+~*.zip
