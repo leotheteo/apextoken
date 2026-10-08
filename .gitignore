@@ -6,3 +6,4 @@ fp-info-cache
 .history/
 *.lck
 ~*.zip
+report.txt

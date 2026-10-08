@@ -2284,7 +2284,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS645Sx43SMTR92"
 			(at 97.79 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -2520,7 +2520,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS645Sx43SMTR92"
 			(at 111.76 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -2836,7 +2836,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 127 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -3080,7 +3080,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
 			(at 88.9 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -3334,7 +3334,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS645Sx43SMTR92"
 			(at 129.54 76.2 0)
 			(hide yes)
 			(show_name no)
